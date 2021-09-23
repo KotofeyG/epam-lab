@@ -5,6 +5,6 @@ Fourth line.
 Fifth line.
 Sixth line.
 Seventh line.
-Eighth line.
-Ninth line.
+Eighth line. Another line was updated.
+Ninth line. Another line was updated.
 Tenth line.
