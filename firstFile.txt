@@ -1,8 +1,8 @@
 First line was updated.
 Second line was updated.
 Third line.
-Fourth line.
-Fifth line.
+Fourth line. Line is for Commit and Push 
+Fifth line. Line is for Commit and Push
 Sixth line.
 Seventh line.
 Eighth line. Another line was updated.
